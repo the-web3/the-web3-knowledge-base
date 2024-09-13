@@ -2,3 +2,4 @@
 - aandds: https://aandds.com/
 - hackernoon: https://hackernoon.com/
 - blockchain-course: https://github.com/the-web3/blockchain-course
+- DeFiHackLabs: https://github.com/SunWeb3Sec/DeFiHackLabs
