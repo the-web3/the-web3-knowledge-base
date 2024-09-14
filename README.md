@@ -3,3 +3,4 @@
 - hackernoon: https://hackernoon.com/
 - blockchain-course: https://github.com/biquanlibai/blockchain-course
 - DeFiHackLabs: https://github.com/SunWeb3Sec/DeFiHackLabs
+- bitcoinbook: https://github.com/bitcoinbook/bitcoinbook
