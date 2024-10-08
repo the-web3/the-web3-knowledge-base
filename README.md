@@ -14,3 +14,7 @@
 - https://github.com/ckb-cell/RGBPlusPlus-design/blob/main/docs/light-paper-cn.md
 - https://github.com/ckb-cell/RGBPlusPlus-design/blob/main/docs/lockscript-design-prd-cn.md
 - https://github.com/ckb-cell/RGBPlusPlus-design/blob/main/docs/security-analysis-cn.md
+
+  # OP_CAT 讲得比较好的文章
+
+  https://hackmd.io/@GMhPT1-rT6GY8bYBRDh1jA/HyTbYJiA0
